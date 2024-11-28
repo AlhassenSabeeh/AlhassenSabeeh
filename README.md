@@ -1,6 +1,6 @@
 About me:
 
-EDUCATION:
+# Education
 
  High school graduated with 94,75%.
 
@@ -10,7 +10,7 @@ EDUCATION:
  Currently pursuing a Bachelor's degree in Computer Science ,
  3th term, at the University of People , United State (online).
 
-EXPERIENCES:
+# Experiences
 
  Three years of experience in programming with various languages,
 including C++, C, Python, HTML, CSS, and Java.
@@ -19,7 +19,7 @@ including C++, C, Python, HTML, CSS, and Java.
 including data structures, algorithms, problem-solving, memory management,
 and object-oriented programming (OOP) principles.
 
-INTERESTED IN:
+# Interested in
 
 Reading books of Thoughts, political history,
 and developments in economic systems.
