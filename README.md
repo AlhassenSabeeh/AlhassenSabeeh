@@ -8,7 +8,7 @@ About me:
   4th year, at the University of Khartoum, Sudan.
 
  Also a Bachelor's degree in Computer Science ,
- 3th term, at the University of People , United State (online).
+ 3th term, at the University of The People , United State (online).
 
 # Experiences
 
