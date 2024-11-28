@@ -7,7 +7,7 @@ About me:
  Currently pursuing a Bachelor's degree in Electrical and Electronic Engineering,
   4th year, at the University of Khartoum, Sudan.
 
- Currently pursuing a Bachelor's degree in Computer Science ,
+ Also a Bachelor's degree in Computer Science ,
  3th term, at the University of People , United State (online).
 
 # Experiences
